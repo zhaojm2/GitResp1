@@ -1,0 +1,3 @@
+#tanks' count at initialize
+initCount = 15
+fireStrategy = com.zhaojm2.tank.FourDirFireStrategy
